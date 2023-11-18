@@ -105,3 +105,20 @@ button {
 
 }
 
+
+.section {
+  padding: 100px 20px;
+  height: 100vh;
+}
+
+.home {
+  background-color: aqua;
+}
+
+.contacts {
+  background-color: rebeccapurple;
+}
+
+.why {
+  background-color: red;
+}
