@@ -196,6 +196,10 @@ button {
     }
   }
 .loader-vrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
     background-color: rgb(31, 29, 27);
     height: 100vh;
     width: 100vw;
